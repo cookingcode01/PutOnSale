@@ -1,4 +1,8 @@
-## Inspiration
+## NFTStorage IPFS/Filecoin Integration
+Link - https://github.com/cookingcode01/PutOnSale/blob/main/CreateLinks.js
+
+
+## Description
 
 Sell Your Stuff App gives users the ability to buy, rent, sell and request items they need from other people, all in one app.
 Our app allows you to trade items you no longer want, need, or use for new stuff. Our app is designed to keep usable goods circulating instead of collecting dust on a shelf or taking up space in a landfill.
